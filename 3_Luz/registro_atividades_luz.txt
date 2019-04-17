@@ -1,0 +1,6 @@
+16_04_2019 - Solicitação de Ligação de Energia
+17_04_2019 - Reclamação sobre falta de tampa no "contador de energia"
+		# Protocolo 10530790
+		# Conforme atendente, é possível que o serviço ainda não tenha sido finalizado. 
+		# Prazo máximo para fechar é 18_04_2019
+
